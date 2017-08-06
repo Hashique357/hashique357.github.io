@@ -20,7 +20,7 @@
   ![Image](28934103-4cb9ab5e-789d-11e7-9e01-2a1906641b1f.jpg)
   The Kerala Startup mission is setting up Fab Labs in the state in collaboration with the Massachusetts Institute of Technology Centre of Bits and Atoms. Dr Neil Gershenfeld, director of the MIT Centre for Bits and Atoms pioneered the concept of fab lab.Fab Labs (Fabrication Laboratories) are facilities where people with minimal training can design and manufacture any product using advanced manufacturing machines linked to a computer. Fab Lab @ MESCE , Kuttippuram is the only fab lab in the Malabar Zone .
   
-## FabLab worksop
+## FabLab workshop
   A 2 week Fablab workshop is being conducting at MESCE, Kuttippuram.
   
 ### day 1
