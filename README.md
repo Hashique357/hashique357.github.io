@@ -12,5 +12,5 @@
   10. Computers
   
 # FabLab @MESCE,Kuttippuram
-  ![28934103-4cb9ab5e-789d-11e7-9e01-2a1906641b1f.jpg](Macintosh HD/Users/RaazArif/Downloads)
+  ![28934103-4cb9ab5e-789d-11e7-9e01-2a1906641b1f.jpg](/Users/RaazArif/Downloads)
   
