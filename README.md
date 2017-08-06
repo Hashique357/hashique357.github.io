@@ -7,6 +7,7 @@
           8157022799
     email:ashique357@gmail.com,
           hashique357@gmail.com
+    facebook:https://www.facebook.com/hashboss007
           
 # Welcome to my FabLab experiments
   A Fabrication Laboratory (FabLab) is a technical prototyping platform for innovation and invention which aims at providing stimulus for local entrepreneurship and serves as a platform for learning and innovation. It is a small scale workshop offering digital fabrication which empowers the users to create smart devices for themselves which can be tailored to local or personal needs.The Fablab mainly comprises of the following inventories:
