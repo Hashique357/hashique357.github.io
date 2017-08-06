@@ -31,9 +31,9 @@
   
 # Contact me
   
-   phone:  7012915487,
+    phone:  7012915487,
            8157022799
-   email:  ashique357@gmail.com,
+    email:  ashique357@gmail.com,
            hashique357@gmail.com
      
    [facebook](https://www.facebook.com/hashboss007)
