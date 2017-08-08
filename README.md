@@ -23,17 +23,16 @@
 ## FabLab workshop
   A 2 week Fablab workshop is being conducting at MESCE, Kuttippuram led by Mr.Muhammed Jaseel.
   
-![Image](Lecture 01.jpg)
+
+<img src="Lecture 01.jpg">
   
 ### day 1
    In the first day, we had a great session about what is fablab and convinced us “How to Make Almost Anything”. We got an brief introdution about the main inventories involoved in the fablab.
    
-<img src="3D Printer 04.jpg" height="234" width="416">
-   
-<imgsrc="https://github.com/Hashique357/hashique357.github.io/blob/master/3D%20Printer%2004.jpg" height="234" width="416">
-   3D printer
-   
-![Image](Laser Cutter 01.jpg)
+<img src="3D Printer 04.jpg" height="234" width="350">
+ 3D printer
+
+<img src="Laser Cutter 01.jpg" height="300" width="800">
    Laser cutter
 ### day 2
    We learnt about documentation of our work using github pages.Also installed the softwares required for designing and coding of our work.
